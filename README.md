@@ -6,7 +6,6 @@ I continue learning programming languages, at this stage I am immersed in learni
 Programming languages:
 
 -Swift;
-
 -C#(Unity).
 
 📫 How to reach me:
