@@ -3,10 +3,7 @@
 
 I continue learning programming languages, at this stage I am immersed in learning languages such as Swift and C#(Unity). Among my repositories you can see a number of my projects. I took a Unity Learn course, and I'm currently taking an additional iOS developer course.
 
-Programming languages:
-
--Swift;
--C#(Unity).
+Programming languages: Swift, C#(Unity).
 
 📫 How to reach me:
 
